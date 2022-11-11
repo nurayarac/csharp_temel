@@ -1,0 +1,8 @@
+C:\Users\nuray\OneDrive\Masaüstü\c_sharp\sınav_oncesi\sınav_oncesi\obj\Debug\sınav_oncesi.csproj.AssemblyReference.cache
+C:\Users\nuray\OneDrive\Masaüstü\c_sharp\sınav_oncesi\sınav_oncesi\obj\Debug\sınav_oncesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\nuray\OneDrive\Masaüstü\c_sharp\sınav_oncesi\sınav_oncesi\obj\Debug\sınav_oncesi.csproj.CoreCompileInputs.cache
+C:\Users\nuray\OneDrive\Masaüstü\c_sharp\sınav_oncesi\sınav_oncesi\bin\Debug\sınav_oncesi.exe.config
+C:\Users\nuray\OneDrive\Masaüstü\c_sharp\sınav_oncesi\sınav_oncesi\bin\Debug\sınav_oncesi.exe
+C:\Users\nuray\OneDrive\Masaüstü\c_sharp\sınav_oncesi\sınav_oncesi\bin\Debug\sınav_oncesi.pdb
+C:\Users\nuray\OneDrive\Masaüstü\c_sharp\sınav_oncesi\sınav_oncesi\obj\Debug\sınav_oncesi.exe
+C:\Users\nuray\OneDrive\Masaüstü\c_sharp\sınav_oncesi\sınav_oncesi\obj\Debug\sınav_oncesi.pdb
